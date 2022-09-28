@@ -13,7 +13,7 @@
 ## Javacript alapok
 
 5. [Változók](./javascript-variables.md)
-6. If statement
+6. [If statement](./javascript-if.md)
 7. Ciklusok
 8. Függvények
 9. Tömbök
