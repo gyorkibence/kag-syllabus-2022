@@ -5,7 +5,7 @@
 Tanulj CSS flexbox-ot játékokon keresztül:
 
 [Coding fantasy](https://codingfantasy.com/games/flexboxadventure)
-[Flexbox froggy](https://codepip.com/games/flexbox-froggy/)
+[Flexbox froggy](https://flexboxfroggy.com/)
 
 ## Weboldal
 
