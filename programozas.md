@@ -9,7 +9,7 @@
 
 3. [Változók](./javascript-variables.md)
 4. [If statement](./javascript-if.md)
-5. Ciklusok
+5. [Ciklusok](./javascript-loops.md)
 6. Függvények
 7. Tömbök
 8. Objektumok
