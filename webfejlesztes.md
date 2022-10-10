@@ -14,6 +14,8 @@
 
 ## Javacript alapok
 
+[Játék](./javascript-game.md)
+
 5. [Változók](./javascript-variables.md)
 6. [If statement](./javascript-if.md)
 7. Ciklusok
