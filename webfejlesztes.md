@@ -19,8 +19,9 @@
 5. [Változók](./javascript-variables.md)
 6. [If statement](./javascript-if.md)
 7. [Ciklusok](./javascript-loops.md)
-8. Függvények
-9. Tömbök
+8. [Függvények](./javascript-functions.md)
+9. [Tömbök](./javascript-arrays.md)
++1 [Gyakorlás](./javascript-arrays-functions.md)
 10. Objektumok
 
 ## Frontend alapok
