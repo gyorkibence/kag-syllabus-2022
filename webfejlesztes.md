@@ -14,6 +14,8 @@
 
 ## Javacript alapok
 
+Ha már tanultad korábban [itt](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome) gyorsabban ismételhetsz.
+
 [Játék](./javascript-game.md)
 
 5. [Változók](./javascript-variables.md)
