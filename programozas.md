@@ -8,6 +8,7 @@
 ## Javacript alapok
 
 [Játék](./javascript-game.md)
+[Játék 2.0](./javascript-game2.md)
 
 3. [Változók](./javascript-variables.md)
 4. [If statement](./javascript-if.md)
