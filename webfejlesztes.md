@@ -28,7 +28,7 @@ Ha már tanultad korábban [itt](https://www.codecademy.com/courses/introduction
 
 ## Frontend alapok
 
-11. DOM
+11. [DOM](./dom.md)
 12. React states
 13. React props
 14. React navigation
