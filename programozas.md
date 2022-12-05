@@ -16,7 +16,7 @@
 6. [Függvények](./javascript-functions.md)
 7. [Tömbök](./javascript-arrays.md)
 +1 [Gyakorlás](./javascript-arrays-functions.md)
-8. Objektumok
+8. [Objektumok](./javascript-object.md)
 
 ## Algoritmusok
 

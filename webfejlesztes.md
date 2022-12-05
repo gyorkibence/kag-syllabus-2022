@@ -24,7 +24,7 @@ Ha már tanultad korábban [itt](https://www.codecademy.com/courses/introduction
 8. [Függvények](./javascript-functions.md)
 9. [Tömbök](./javascript-arrays.md)
 +1 [Gyakorlás](./javascript-arrays-functions.md)
-10. Objektumok
+10. [Objektumok](./javascript-object.md)
 
 ## Frontend alapok
 
