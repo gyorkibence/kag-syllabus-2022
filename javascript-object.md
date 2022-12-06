@@ -12,13 +12,14 @@
 - Object.values(obj)
 - Object destructing
 
+
 ## Feladatok
 
 ```js
 let personalInformation = {
     height: 100,
     name: {
-        first: 'Györki'
+        first: 'Györki',
         last: 'Bence',
     },
 };
